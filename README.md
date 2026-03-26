@@ -2,8 +2,9 @@
 Python（Manim）を用いて、Borwein積分のシミュレーションを可視化したプロジェクトです。
 
 ### 🎥 実行結果（YouTube）
-https://www.youtube.com/watch?v=Gq63oLT7OhY　(修正前)
-リンク　(修正後)
+修正前：https://www.youtube.com/watch?v=Gq63oLT7OhY
+
+修正後：リンク
 
 ### 概要
 $N=1$ から $N=7$ までは $\pi/2$ となる積分が、$N=8$ 以降でわずかに値が下がるという数学的に興味深い現象（Borwein積分）を、幾何学的な直感と合わせてアニメーション化しました。
